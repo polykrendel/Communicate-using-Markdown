@@ -9,3 +9,7 @@ public static void main(String[] args){
   String bruh = "HEHEHEHA";
 }
 ```
+- [x] Waste time
+- [x] Bahnuv pivka
+- [ ] Do something useful
+- [ ] Release slander
